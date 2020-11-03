@@ -428,7 +428,7 @@
           i = t.getAttribute("data-image");
         if (n) {
           var r = i.lastIndexOf(".");
-          i = i.substr(0, r) + "@2x" + i.substr(r);
+          i = i.substr(0, r) + "-2x" + i.substr(r);
         }
         l("src", i, e), l("role", "presentation", e), t.appendChild(e);
       });
