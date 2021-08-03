@@ -1,3 +1,9 @@
 1150*870 images record
-662*498 video
+
+662*498 video 20fps 
+666*456 full
+
+1332 * 912 50% navegator
+
+
 
